@@ -1,0 +1,158 @@
+//////////////////////////////////////////////////////////////////
+The Respectful Public Library Lending License
+//////////////////////////////////////////////////////////////////
+The RPL3 License, v1.00						v:MjhBdWcxMg==
+
+
+The software licensed hereunder, large or small, is primarily meant to serve as a 
+function library, API (Application Programming Interface), or collection of discrete 
+components and logic that, while potentially individually useful, do not culminate 
+to comprise a typical program or product in its own right and is inherently designed 
+to be used by many in its exposed, accessible form. Consequently, the spirit of this license 
+differs from that of other licenses which typically cover holistic applications, 
+chiefly because the authors of software libraries, components, snippets, and utilities
+that are librarylike more often undertake these projects to be useful rather than to personally profit.
+
+The contributing organization, author, or authors of this software, most likely
+intrinsically motivated by either a quest for validation or what will hereafter 
+be referred to as "warm fuzzies", are making a sort of conditional bequest to 
+the community at large.
+
+Redistribution and use of this library in source and binary forms is
+permitted provided that the following conditions are met: 
+
+1. Duty Not To (Overly) Fold, Spindle, or Mutilate. 
+To the extent possible, the library source file remain relatively intact.
+The nature of a software library means that its proliferation and reputation
+(and potentially that of its author) may suffer unfairly when its reliability 
+is judged not upon the actual work, but upon impressions derived from experiences
+with copies containing untested, ad-hoc, and often purpose-built "patches" over
+original or multiply-mutated work. There are some situations in which 
+these modifications are typically more welcome than others.
+
+While you are under no license obligation in this area, mostly this is a question of respect:
+
+If the software in which you are planning to leverage this library's functionality
+is distributed mostly in binary form and doesn't blatantly advertise its reliance
+on the library, feel empowered (because you are) to modify even the core source files of the library 
+to the bounds of your heart's desire. Sometimes the performance need comes along to take only a
+subset of the software to use with a larger program being written, and that's a need that should
+be respected.
+
+If you are merely passing the software along, especially in source form, you would do
+well not to modify it. If you have any technical suggestions, try to get in contact with
+the author, who will most likely graciously recieve your input.
+
+( Speaking of that, by <deity>, you are well within your rights (as always, where your country doesn't forbid it)
+to reverse engineer any library covered under this license, though if that grant makes any real sense
+in this context, this work probably isn't very much of a library. )
+
+In general, where you make modifications, it is courteous and expected of you to provide
+some sort of changelog in addition to retaining the original source file notice that clearly
+demarcates your work vs. the authors.
+
+2. No Trolls, No Plagiarists
+You may not pass the work off as your own.
+You may not attempt to claim copyright of the work to prevent others from using it. 
+
+In fact, you may not claim copyright of the work at all.
+
+This applies to the whole as well as the parts. When distributing it or any portions in source form,
+you are required to make some proper and visible attribution of its authorship and are very much 
+encouraged to retain, unmodified, the original notices and documentation in at least the
+source files themselves, if not necessarily (unless expressly requested by the author)
+the outlying documentation and license files, since requirements entailing the retention
+of various readmes and such can tend to be messy, vague, and onerous. If you use the library
+as a part of a work you create and distribute only in binary form, it is not required of you that
+you reproduce the notices, but it would be very nice if you could give credit for the free libraries
+you use because learning that a library is being used "by someone else" and "in the real world" tends
+very much to spur their otherwise sometimes thankless development.
+
+3. Commercial Use. You may not sell the library itself as a product. You really shouldn't 
+burn it onto a disk that will be sold in an office supply store bargain bin as 
+"1001 Free Software Libraries". If you are in the business of hosting collections of free
+software libraries to which you allow access for a monthly subscription charge, you are probably
+in the wrong business and clearly missed the fact that you could likely make much more charging
+extortionate rates to institutions and unaffiliated individuals for the same sort of access
+to academic journal articles for the same sort of effort.
+  
+You are at liberty, however, at great liberty in fact, 
+to include the library in source and especially in binary form in conjunction
+with a product that you sell or distribute. 
+
+That's right. You can use it in a commercial setting (an office, mayhap)
+and pay no royalties, even though you're making money and not 
+a home or educational user. For this covered work, the author has chosen
+not to discriminate on the basis of who you are.
+
+Basically, commercial use of the product is allowed so long as
+the product itself does not become an item of commerce. 
+
+For programmers, since the library author is probably not totally unlike yourself,
+he or she ESPECIALLY WANTS you to hear, read, understand, or otherwise NOT MISS OUT
+on the following, because it is sometimes tragically unclear in other licenses.
+
+Within the guidelines and (quite roomy) confines of this license and any others that may accompany it,
+unless those supersede these:
+
+		* You are ALLOWED AND ENCOURAGED to DYNAMICALLY 
+		  (at runtime) LINK to this software!
+
+		* You are ALLOWED AND ENCOURAGED to STATICALLY
+		  (at compiletime) LINK to this software!
+
+		* IF YOU WRITE A PROGRAM that interfaces with this software 
+			   in nearly any conceivable way,
+                  you STILL have all of the rights to your part of the
+                  program, and you don't have to give it, or its source
+	          away to anybody or maintain it as a museum piece 
+                  or something, as would seem to be mandated in 
+		  certain other sprawling, more than vaguely 
+                  idealistic free software licenses.
+
+4. Prohibited Use Is Prohibited
+
+You are not allowed to use this software in any jurisdiction where its use is disallowed.
+It's not the author's fault if you find yourself in front of a firing squad, or languishing
+in a malaria-infested tropical prison or even routinely detained at the border for questioning. 
+If your government doesn't want you using this software library because they consider 
+it nefarious or emasculating, do yourself a favor and either don't use it or find yourself
+a different government (unless of course they happen to frown upon that too).
+
+5. Don't Harass the Authors ("Love it or Lump It")
+
+Most likely, the authors released their efforts to public scrutiny because they 
+were feeling sincerely giving and magnanimous, and wished productivity on another
+suffering human soul. Your use of the software obligates you not to harass the authors
+in connection with their work on the program. Beyond not sending excessive fanmail,
+you agree not to berate the authors even in the face of incompetence, or use their
+failings, mistakes, oversights, and accidents as munitions for campaigns of public
+disgrace and humiliation. You also agree not to use the name of the authors or their creations,
+or any personal details to promote your own program or business, even if it leverages the library. 
+In general, too much publicity can be bad publicity.
+
+Because some of us live in an excessively and increasingly litigious society,
+there is one more very important group of assertions you must agree to before you
+are permitted to use the software. Even though the text may be very familiar, 
+library authors especially, really need these protections and we hope you will
+take this commitment seriously.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Even at the library level, software's successful and expected operation is
+dependent on the sucessful and expected reliable operation of many systems,
+conditions, and realities it relies upon that may not be "future-proof" or
+even "present-proof", and one of these, significantly, is the ever-fallible
+human brain. Therefore we must ask, especially since the author is providing
+the software with no expectation of direct financial gain, that you agree not 
+to undertake legal action against him, her, or them or anyone associated with 
+them in connection with anyone's use of the program.
